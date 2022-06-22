@@ -1,6 +1,6 @@
 2022-06-22
 
-Live Demo:
+Live Demo: https://grand-basbousa-f4c373.netlify.app/
 
 Summary: Following along with Brad and Florin's 50 Projects in 50 Days to better understand JavaScript.
 
